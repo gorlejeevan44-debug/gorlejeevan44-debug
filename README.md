@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Jeevan 👋
 
-<!--
-**gorlejeevan44-debug/gorlejeevan44-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Python, Machine Learning, and Data Analytics
+
+📊 Interested in Data Science and AI
+
+🚀 Currently building real-world projects using Python
+
+## Skills
+
+* Python
+* Machine Learning
+* Data Analysis
+* Pandas
+* NumPy
+* Scikit-Learn
+* Git & GitHub
+
+## Projects
+
+### ATM Simulation System
+
+A Python-based ATM simulator implementing account operations and transaction management.
+
+### Student Result Processing System
+
+A Python project for managing and analyzing student records and results.
+
+## Currently Learning
+
+* Machine Learning
+* Data Visualization
+* Data Analytics
+* SQL
+
+## Goals for 2026
+
+* Complete 10+ Data Analytics Projects
+* Contribute to Open Source
+* Obtain ML and Data Science Internships
+* Build a Professional Portfolio
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorlejeevan44-debug\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorlejeevan44-debug\&layout=compact)

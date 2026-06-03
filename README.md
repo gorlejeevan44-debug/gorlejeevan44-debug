@@ -50,6 +50,6 @@ A Python project for managing and analyzing student records and results.
 * Build a Professional Portfolio
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorlejeevan44-debug&show_icons=true&theme=dark)
+![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorlejeevan44-debug&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorlejeevan44-debug&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorleevan44-debug&layout=compact&theme=github_dark))
